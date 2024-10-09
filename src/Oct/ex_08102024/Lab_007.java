@@ -7,6 +7,8 @@ public class Lab_007
         int a = 10;
         {
             System.out.printf("%d * 1 = %d", a,a);
+            System.out.println();
+            System.out.printf("%d * 2 = %d", a,a);
         }
     }
 }
