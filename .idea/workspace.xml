@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703a9c71-6f48-4c0e-872e-f7b74888b84b" name="Changes" comment="Add All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Lab_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab_Var.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/Lab_011.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab_variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_09102024/tes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/Lab_Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_09102024" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,7 @@
     "Application.Lab000x.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab01.executor": "Run",
+    "Application.Lab_Var.executor": "Run",
     "Application.Lab_Variables.executor": "Run",
     "Application.Lab_variables.executor": "Run",
     "Application.Lab_varibales.executor": "Run",
@@ -74,13 +73,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_Variables">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Lab001" />
+  <component name="RunManager" selected="Application.Lab_Var">
+    <configuration name="Lab_Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_09102024.Lab_Var" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Oct.ex_09102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_Var" />
         <item itemvalue="Application.Lab_Variables" />
         <item itemvalue="Application.Oct.ex_09102024.Lab_variables" />
         <item itemvalue="Application.Lab_variables" />
         <item itemvalue="Application.Lab_variables" />
-        <item itemvalue="Application.Oct.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728445668786</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add All Files">
+      <option name="closed" value="true" />
+      <created>1728446568580</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728446568580</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
