@@ -1,6 +1,6 @@
-package Oct;
+package Oct.ex_09102024;
 
-public class Lab_varibales
+public class Lab_variables
 {
     public static void main (String[] args)
     {
