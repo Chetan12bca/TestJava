@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703a9c71-6f48-4c0e-872e-f7b74888b84b" name="Changes" comment="Add All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/TernaryOperator15102024/TO_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/TernaryOperator15102024/To_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Lab_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Application.Lab01.executor": "Run",
     "Application.Lab_007.executor": "Run",
     "Application.Lab_012.executor": "Run",
+    "Application.Lab_16.executor": "Run",
     "Application.Lab_Var.executor": "Run",
     "Application.Lab_Variables.executor": "Run",
     "Application.Lab_variables.executor": "Run",
@@ -68,6 +67,7 @@
     "Application.Oct.Lab001.executor": "Run",
     "Application.Oct.ex_09102024.Lab_variables.executor": "Run",
     "Application.TO_1.executor": "Run",
+    "Application.To_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -76,7 +76,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.To_2">
+  <component name="RunManager" selected="Application.Lab_16">
     <configuration name="Lab_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab_007" />
       <module name="TestJava" />
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_09102024.Lab_Var" />
+    <configuration name="Lab_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_15102024.Lab_16" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_09102024.*" />
+          <option name="PATTERN" value="Oct.ex_15102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_16" />
         <item itemvalue="Application.To_2" />
         <item itemvalue="Application.TO_1" />
         <item itemvalue="Application.Lab_012" />
         <item itemvalue="Application.Lab_007" />
-        <item itemvalue="Application.Lab_Var" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728449583667</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add All Files">
+      <option name="closed" value="true" />
+      <created>1728956946708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728956946708</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
