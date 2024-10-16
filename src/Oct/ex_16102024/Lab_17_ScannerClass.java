@@ -14,7 +14,10 @@ public class Lab_17_ScannerClass
         System.out.println("Enter your age");
         int age = sc.nextInt();
 
-        System.out.println("Name is:" + name + "\nAge is:"+age);
+        System.out.println("Enter your Salary");
+        double salary = sc.nextDouble();
+
+        System.out.println("Name is:" + name + "\nAge is:"+age + "\nSalary is:" + salary);
 
         sc.close();
     }
