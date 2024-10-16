@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703a9c71-6f48-4c0e-872e-f7b74888b84b" name="Changes" comment="Add All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab_17_TernaryTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab_18Mathematic_Funcs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab_19COnvertTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab_17_ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab_17_ScannerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,8 @@
     "Application.Lab_16.executor": "Run",
     "Application.Lab_17_ScannerClass.executor": "Run",
     "Application.Lab_17_TernaryTask.executor": "Run",
+    "Application.Lab_18Mathematic_Funcs.executor": "Run",
+    "Application.Lab_19COnvertTemperature.executor": "Run",
     "Application.Lab_Var.executor": "Run",
     "Application.Lab_Variables.executor": "Run",
     "Application.Lab_variables.executor": "Run",
@@ -79,13 +81,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_17_TernaryTask">
-    <configuration name="Lab_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_15102024.Lab_16" />
+  <component name="RunManager" selected="Application.Lab_19COnvertTemperature">
+    <configuration name="Lab_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab_007" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_15102024.*" />
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TO_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.TernaryOperator15102024.TO_1" />
+    <configuration name="Lab_18Mathematic_Funcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab_18Mathematic_Funcs" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.TernaryOperator15102024.*" />
+          <option name="PATTERN" value="Oct.ex_16102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="To_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.TernaryOperator15102024.To_2" />
+    <configuration name="Lab_19COnvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab_19COnvertTemperature" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.TernaryOperator15102024.*" />
+          <option name="PATTERN" value="Oct.ex_16102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab_16" />
+      <item itemvalue="Application.Lab_007" />
+      <item itemvalue="Application.Lab_18Mathematic_Funcs" />
+      <item itemvalue="Application.Lab_19COnvertTemperature" />
       <item itemvalue="Application.Lab_17_ScannerClass" />
       <item itemvalue="Application.Lab_17_TernaryTask" />
-      <item itemvalue="Application.TO_1" />
-      <item itemvalue="Application.To_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_19COnvertTemperature" />
+        <item itemvalue="Application.Lab_18Mathematic_Funcs" />
+        <item itemvalue="Application.Lab_007" />
         <item itemvalue="Application.Lab_17_TernaryTask" />
         <item itemvalue="Application.Lab_17_ScannerClass" />
-        <item itemvalue="Application.Lab_16" />
-        <item itemvalue="Application.TO_1" />
-        <item itemvalue="Application.To_2" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729043423682</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add All Files">
+      <option name="closed" value="true" />
+      <created>1729044648424</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729044648424</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
