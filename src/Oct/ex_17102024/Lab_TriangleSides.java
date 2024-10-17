@@ -16,9 +16,9 @@ public class Lab_TriangleSides
         System.out.println("Enter the side C:");
         int C = sc.nextInt();
 
-        if (A<=0 || B<=0 || C<=0)
+        if (A<0 || A>=60 || B<0 || B>=60|| C<0 || C>=60)
         {
-            System.out.println("Invalid Input:"+A+B+C);
+            System.out.println("Invalid Input:\n"+A+"\n"+B+"\n"+C);
         }
         else if (A==B && B==C)
         {
