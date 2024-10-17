@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703a9c71-6f48-4c0e-872e-f7b74888b84b" name="Changes" comment="Add All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab_GradeDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab_TriangleSides.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,8 @@
     "Application.Lab_18Mathematic_Funcs.executor": "Run",
     "Application.Lab_19.executor": "Run",
     "Application.Lab_19COnvertTemperature.executor": "Run",
+    "Application.Lab_GradeDisplay.executor": "Run",
+    "Application.Lab_TriangleSides.executor": "Run",
     "Application.Lab_Var.executor": "Run",
     "Application.Lab_Variables.executor": "Run",
     "Application.Lab_variables.executor": "Run",
@@ -81,34 +84,7 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_19">
-    <configuration name="Lab_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab_007" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_08102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_17_TernaryTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab_17_TernaryTask" />
-      <module name="TestJava" />
-      <option name="PROGRAM_PARAMETERS" value="50 10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab_TriangleSides">
     <configuration name="Lab_18Mathematic_Funcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab_18Mathematic_Funcs" />
       <module name="TestJava" />
@@ -148,20 +124,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_GradeDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab_GradeDisplay" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_TriangleSides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab_TriangleSides" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Lab_TriangleSides" />
+      <item itemvalue="Application.Lab_GradeDisplay" />
       <item itemvalue="Application.Lab_19" />
-      <item itemvalue="Application.Lab_007" />
       <item itemvalue="Application.Lab_18Mathematic_Funcs" />
       <item itemvalue="Application.Lab_19COnvertTemperature" />
-      <item itemvalue="Application.Lab_17_TernaryTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_TriangleSides" />
+        <item itemvalue="Application.Lab_GradeDisplay" />
         <item itemvalue="Application.Lab_19" />
         <item itemvalue="Application.Lab_19COnvertTemperature" />
         <item itemvalue="Application.Lab_18Mathematic_Funcs" />
-        <item itemvalue="Application.Lab_007" />
-        <item itemvalue="Application.Lab_17_TernaryTask" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729057734063</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add All Files">
+      <option name="closed" value="true" />
+      <created>1729100880167</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729100880168</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
