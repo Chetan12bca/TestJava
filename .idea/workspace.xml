@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703a9c71-6f48-4c0e-872e-f7b74888b84b" name="Changes" comment="Add All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab_23Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab_24Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab_Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab_26Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab_27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,50 +55,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Addition.executor": "Run",
-    "Application.Lab000x.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab01.executor": "Run",
-    "Application.Lab_007.executor": "Run",
-    "Application.Lab_012.executor": "Run",
-    "Application.Lab_16.executor": "Run",
-    "Application.Lab_17_ScannerClass.executor": "Run",
-    "Application.Lab_17_TernaryTask.executor": "Run",
-    "Application.Lab_18Mathematic_Funcs.executor": "Run",
-    "Application.Lab_19.executor": "Run",
-    "Application.Lab_19COnvertTemperature.executor": "Run",
-    "Application.Lab_22Args.executor": "Run",
-    "Application.Lab_23Switch.executor": "Run",
-    "Application.Lab_24Switch.executor": "Run",
-    "Application.Lab_GradeDisplay.executor": "Run",
-    "Application.Lab_Switch.executor": "Run",
-    "Application.Lab_TriangleSides.executor": "Run",
-    "Application.Lab_Var.executor": "Run",
-    "Application.Lab_Variables.executor": "Run",
-    "Application.Lab_variables.executor": "Run",
-    "Application.Lab_varibales.executor": "Run",
-    "Application.Oct.Lab001.executor": "Run",
-    "Application.Oct.ex_09102024.Lab_variables.executor": "Run",
-    "Application.TO_1.executor": "Run",
-    "Application.To_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/TestJava/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Addition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab000x.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_17_ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_17_TernaryTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_18Mathematic_Funcs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_19COnvertTemperature.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_22Args.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_23Switch.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.Lab_24Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_26Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_GradeDisplay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_TriangleSides.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Var.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_varibales.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oct.ex_09102024.Lab_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TO_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.To_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/IdeaProjects/TestJava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab_Switch">
-    <configuration name="Lab_22Args" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab_22Args" />
+}</component>
+  <component name="RunManager" selected="Application.Lab_26Functions">
+    <configuration name="Lab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab01" />
       <module name="TestJava" />
-      <option name="PROGRAM_PARAMETERS" value="60 80 100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_02102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_23Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Lab_23Switch" />
+    <configuration name="Lab_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ForLoop.Lab_25" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024.*" />
+          <option name="PATTERN" value="Oct.ex_21102024_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_24Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Lab_24Switch" />
+    <configuration name="Lab_26Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Lab_26Functions" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024.*" />
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_GradeDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_17102024.Lab_GradeDisplay" />
+    <configuration name="Lab_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Lab_27" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_17102024.*" />
+          <option name="PATTERN" value="Oct.ex_23102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.Lab_Switch" />
+    <configuration name="Lab_Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024_ForLoop.Lab_Task01" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024.*" />
+          <option name="PATTERN" value="Oct.ex_21102024_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab_23Switch" />
-      <item itemvalue="Application.Lab_24Switch" />
-      <item itemvalue="Application.Lab_Switch" />
-      <item itemvalue="Application.Lab_22Args" />
-      <item itemvalue="Application.Lab_GradeDisplay" />
+      <item itemvalue="Application.Lab01" />
+      <item itemvalue="Application.Lab_25" />
+      <item itemvalue="Application.Lab_26Functions" />
+      <item itemvalue="Application.Lab_27" />
+      <item itemvalue="Application.Lab_Task01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_Switch" />
-        <item itemvalue="Application.Lab_24Switch" />
-        <item itemvalue="Application.Lab_23Switch" />
-        <item itemvalue="Application.Lab_22Args" />
-        <item itemvalue="Application.Lab_GradeDisplay" />
+        <item itemvalue="Application.Lab_26Functions" />
+        <item itemvalue="Application.Lab_27" />
+        <item itemvalue="Application.Lab_Task01" />
+        <item itemvalue="Application.Lab_25" />
+        <item itemvalue="Application.Lab01" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729158657294</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add All Files">
+      <option name="closed" value="true" />
+      <created>1729275372798</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729275372798</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,5 +388,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add All Files" />
     <option name="LAST_COMMIT_MESSAGE" value="Add All Files" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestJava$Lab_23Switch.ic" NAME="Lab_23Switch Coverage Results" MODIFIED="1729275452872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Oct.ex_18102024.*</FILTER>
+    </SUITE>
   </component>
 </project>

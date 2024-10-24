@@ -5,6 +5,6 @@ public class Lab01
     public  static void main(String[] args)
         {
             System.out.println("Hello World");
-            System.out.println("Namaste");
+            System.out.println(1);
         }
 }
