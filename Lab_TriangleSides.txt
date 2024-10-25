@@ -1,0 +1,47 @@
+A,B,C
+All sides equal
+A=B, B=C
+Print - All sides are equal
+
+2 Sides
+A=B, B=C, C=A
+Print - 2 sides are equal
+
+else
+print - all are not equal.
+
+import java.util.Scanner;
+
+public class Lab_TriangleSides
+{
+	public static void main(String[] args)
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the side A:");
+		int A = sc.nextInt();
+
+		System.out.println("Enter the side B:");
+		int B = sc.nextInt();
+
+		System.out.println("Enter the side C:");
+		int C = sc.nextInt();
+
+		if (A<=0 || B<=0 || C<=0)
+		{
+			System.out.println("Invalid Input:"+A+B+C);
+		}
+		else if (A==B && B==C)
+		{
+			System.out.println("Traingle is Equilateral:"+A+B+C);	
+		}
+		else if (A==B || B==C || C==A)
+		{
+			System.out.println("Triangle is Isosceles:"+A+B+C);
+		}
+		esle
+		{
+			System.out.println("Triangle is Scalene:"+A+B+C);
+		}
+		sc.close();
+	}	
+}
